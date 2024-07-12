@@ -1,0 +1,1 @@
+// This script isn't used but was part of the first section of the lecture where we were linking functionality from multiple files and needed to use our 'watchify' bundler to reduce multiple files into one output file: 'bundle.js'

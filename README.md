@@ -1,0 +1,1 @@
+`.gitignore` this file stops git from tracking certain files. In this case we want to ignore the node_modules
